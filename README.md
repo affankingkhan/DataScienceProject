@@ -1,5 +1,5 @@
 # DataScienceProject
-CMPT353 Data Science Final Project
+Data Science Project
 
 Part 1. Using NBA player data to predict player position based on player height
 
